@@ -1,0 +1,148 @@
+Number of Labels: 10 
+
+Unique Labels: {'GCF_000214845.1_ASM21484v1_genomic.fna', 'GCF_015162245.1_ASM1516224v1_genomic.fna', 'GCF_000485555.1_ASM48555v1_genomic.fna', 'GCF_026625605.1_ASM2662560v1_genomic.fna', 'GCF_000193375.1_ASM19337v1_genomic.fna', 'GCF_000345405.2_ASM34540v2_genomic.fna', 'GCF_012027635.1_ASM1202763v1_genomic.fna', 'GCF_022690745.1_ASM2269074v1_genomic.fna', 'GCF_014841655.1_ASM1484165v1_genomic.fna', 'GCF_000804405.1_ASM80440v1_genomic.fna'} 
+
+Number of Sequences Per Organism: 125000
+Total Number of Sequences: 1250000 
+
+
+GCF_015162245.1
+File Name: GCF_015162245.1_ASM1516224v1_genomic.fna
+GCF ID: GCF_015162245.1
+Species Name: Leptospira borgpetersenii
+
+
+GCF_000345405.2
+File Name: GCF_000345405.2_ASM34540v2_genomic.fna
+GCF ID: GCF_000345405.2
+Species Name: Helicobacter pylori
+
+
+GCF_000214845.1
+File Name: GCF_000214845.1_ASM21484v1_genomic.fna
+GCF ID: GCF_000214845.1
+Species Name: Thermus thermophilus
+
+
+GCF_026625605.1
+File Name: GCF_026625605.1_ASM2662560v1_genomic.fna
+GCF ID: GCF_026625605.1
+Species Name: Luteolibacter sp. SL250
+
+
+GCF_012027635.1
+File Name: GCF_012027635.1_ASM1202763v1_genomic.fna
+GCF ID: GCF_012027635.1
+Species Name: Thermococcus sp. 21S9
+
+
+GCF_022690745.1
+File Name: GCF_022690745.1_ASM2269074v1_genomic.fna
+GCF ID: GCF_022690745.1
+Species Name: Anaeromyxobacter sp. SG64
+
+
+GCF_014841655.1
+File Name: GCF_014841655.1_ASM1484165v1_genomic.fna
+GCF ID: GCF_014841655.1
+Species Name: Frigoribacterium sp. CFBP 8759
+
+
+GCF_000193375.1
+File Name: GCF_000193375.1_ASM19337v1_genomic.fna
+GCF ID: GCF_000193375.1
+Species Name: Thermoproteus uzoniensis
+
+
+GCF_000804405.1
+File Name: GCF_000804405.1_ASM80440v1_genomic.fna
+GCF ID: GCF_000804405.1
+Species Name: Enterococcus faecium
+
+
+GCF_000485555.1
+File Name: GCF_000485555.1_ASM48555v1_genomic.fna
+GCF ID: GCF_000485555.1
+Species Name: Metamycoplasma salivarium
+
+
+{'GCF_015162245.1_ASM1516224v1_genomic.fna': 'Leptospira borgpetersenii', 'GCF_000345405.2_ASM34540v2_genomic.fna': 'Helicobacter pylori', 'GCF_000214845.1_ASM21484v1_genomic.fna': 'Thermus thermophilus', 'GCF_026625605.1_ASM2662560v1_genomic.fna': 'Luteolibacter sp. SL250', 'GCF_012027635.1_ASM1202763v1_genomic.fna': 'Thermococcus sp. 21S9', 'GCF_022690745.1_ASM2269074v1_genomic.fna': 'Anaeromyxobacter sp. SG64', 'GCF_014841655.1_ASM1484165v1_genomic.fna': 'Frigoribacterium sp. CFBP 8759', 'GCF_000193375.1_ASM19337v1_genomic.fna': 'Thermoproteus uzoniensis', 'GCF_000804405.1_ASM80440v1_genomic.fna': 'Enterococcus faecium', 'GCF_000485555.1_ASM48555v1_genomic.fna': 'Metamycoplasma salivarium'} 
+
+Label Mapping: {0: 'GCF_000193375.1_ASM19337v1_genomic.fna', 1: 'GCF_000214845.1_ASM21484v1_genomic.fna', 2: 'GCF_000345405.2_ASM34540v2_genomic.fna', 3: 'GCF_000485555.1_ASM48555v1_genomic.fna', 4: 'GCF_000804405.1_ASM80440v1_genomic.fna', 5: 'GCF_012027635.1_ASM1202763v1_genomic.fna', 6: 'GCF_014841655.1_ASM1484165v1_genomic.fna', 7: 'GCF_015162245.1_ASM1516224v1_genomic.fna', 8: 'GCF_022690745.1_ASM2269074v1_genomic.fna', 9: 'GCF_026625605.1_ASM2662560v1_genomic.fna'} 
+
+
+Epoch 1/10:
+Training Loss: 0.5177, Training Accuracy: 0.8177
+Validation Loss: 0.3717, Validation Accuracy: 0.8723
+Epoch 2/10:
+Training Loss: 0.3528, Training Accuracy: 0.8801
+Validation Loss: 0.3118, Validation Accuracy: 0.8933
+Epoch 3/10:
+Training Loss: 0.3122, Training Accuracy: 0.8936
+Validation Loss: 0.2952, Validation Accuracy: 0.8997
+Epoch 4/10:
+Training Loss: 0.2914, Training Accuracy: 0.9007
+Validation Loss: 0.2679, Validation Accuracy: 0.9087
+Epoch 5/10:
+Training Loss: 0.2804, Training Accuracy: 0.9043
+Validation Loss: 0.2715, Validation Accuracy: 0.9078
+Epoch 6/10:
+Training Loss: 0.2734, Training Accuracy: 0.9067
+Validation Loss: 0.2639, Validation Accuracy: 0.9099
+Epoch 7/10:
+Training Loss: 0.2689, Training Accuracy: 0.9082
+Validation Loss: 0.2581, Validation Accuracy: 0.9111
+Epoch 8/10:
+Training Loss: 0.2655, Training Accuracy: 0.9094
+Validation Loss: 0.2524, Validation Accuracy: 0.9133
+Epoch 9/10:
+Training Loss: 0.2624, Training Accuracy: 0.9100
+Validation Loss: 0.2523, Validation Accuracy: 0.9136
+Epoch 10/10:
+Training Loss: 0.2602, Training Accuracy: 0.9109
+Validation Loss: 0.2456, Validation Accuracy: 0.9166
+
+Number of Epochs: 10
+Final Train Loss: 0.2602, Train Accuracy: 0.9109
+Final Val Loss: 0.2456, Val Accuracy: 0.9166
+
+Classification Report:
+                                precision    recall  f1-score   support
+
+      Thermoproteus uzoniensis       0.95      0.93      0.94     25177
+          Thermus thermophilus       0.95      0.97      0.96     24933
+           Helicobacter pylori       0.95      0.97      0.96     24928
+     Metamycoplasma salivarium       0.94      0.96      0.95     24861
+          Enterococcus faecium       0.87      0.86      0.86     24763
+         Thermococcus sp. 21S9       0.90      0.93      0.91     25031
+Frigoribacterium sp. CFBP 8759       0.89      0.88      0.89     25086
+     Leptospira borgpetersenii       0.89      0.89      0.89     24825
+     Anaeromyxobacter sp. SG64       0.91      0.86      0.89     25063
+       Luteolibacter sp. SL250       0.92      0.92      0.92     25202
+
+                      accuracy                           0.92    249869
+                     macro avg       0.92      0.92      0.92    249869
+                  weighted avg       0.92      0.92      0.92    249869
+
+
+
+Test Loss: 0.2506, Test Accuracy: 91.5568
+
+Classification Report for Test Data:
+                                precision    recall  f1-score   support
+
+      Thermoproteus uzoniensis       0.95      0.92      0.94     24900
+          Thermus thermophilus       0.94      0.97      0.96     24956
+           Helicobacter pylori       0.94      0.97      0.96     24746
+     Metamycoplasma salivarium       0.94      0.95      0.95     25088
+          Enterococcus faecium       0.87      0.86      0.86     25142
+         Thermococcus sp. 21S9       0.89      0.93      0.91     25152
+Frigoribacterium sp. CFBP 8759       0.89      0.88      0.89     24873
+     Leptospira borgpetersenii       0.89      0.89      0.89     25168
+     Anaeromyxobacter sp. SG64       0.91      0.86      0.89     24800
+       Luteolibacter sp. SL250       0.92      0.92      0.92     25034
+
+                      accuracy                           0.92    249859
+                     macro avg       0.92      0.92      0.92    249859
+                  weighted avg       0.92      0.92      0.92    249859
+
